@@ -1,0 +1,24 @@
+{
+  "name": "secretaria.cujaunifesp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cujaunifesp/secretaria.cujaunifesp.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cujaunifesp/secretaria.cujaunifesp.com/issues"
+  },
+  "homepage": "https://github.com/cujaunifesp/secretaria.cujaunifesp.com#readme",
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
